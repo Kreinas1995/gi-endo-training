@@ -1,0 +1,17 @@
+{
+  "name": "GI Endoscopy Tech Training",
+  "short_name": "GI Endo Training",
+  "description": "Self-contained training program for GI Endoscopy Technicians — Olympus equipment, clinical accuracy, offline capable.",
+  "start_url": "/gi-endo-training/",
+  "scope": "/gi-endo-training/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f2d4a",
+  "background_color": "#ffffff",
+  "lang": "en-US",
+  "icons": [
+    { "src": "/gi-endo-training/assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/gi-endo-training/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["education", "medical", "training"]
+}

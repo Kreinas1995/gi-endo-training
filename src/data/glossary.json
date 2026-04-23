@@ -1,0 +1,19 @@
+{
+  "terms": [
+    { "term": "EGD", "definition": "Esophagogastroduodenoscopy — upper GI endoscopy examining esophagus, stomach, and duodenum." },
+    { "term": "ERCP", "definition": "Endoscopic Retrograde Cholangiopancreatography — procedure to diagnose and treat bile duct and pancreatic duct conditions." },
+    { "term": "EUS", "definition": "Endoscopic Ultrasound — endoscopy combined with ultrasound to image GI wall layers and adjacent structures." },
+    { "term": "FNA", "definition": "Fine Needle Aspiration — sampling cells from a mass using a thin needle under EUS guidance." },
+    { "term": "FNB", "definition": "Fine Needle Biopsy — sampling a core tissue specimen using a needle under EUS guidance." },
+    { "term": "EBUS", "definition": "Endobronchial Ultrasound — bronchoscopy with ultrasound to visualize mediastinal lymph nodes." },
+    { "term": "HLD", "definition": "High-Level Disinfection — disinfection process that kills all microorganisms except large numbers of bacterial spores." },
+    { "term": "AER", "definition": "Automated Endoscope Reprocessor — machine that automates the HLD cycle for endoscopes." },
+    { "term": "CBD", "definition": "Common Bile Duct — the duct that carries bile from the liver and gallbladder to the duodenum." },
+    { "term": "CHD", "definition": "Common Hepatic Duct — duct formed by the union of left and right hepatic ducts." },
+    { "term": "GEJ", "definition": "Gastroesophageal Junction — the point where the esophagus meets the stomach." },
+    { "term": "EMR", "definition": "Endoscopic Mucosal Resection — technique for removing large flat polyps from the GI tract." },
+    { "term": "ESD", "definition": "Endoscopic Submucosal Dissection — advanced technique for en bloc resection of GI lesions." },
+    { "term": "APC", "definition": "Argon Plasma Coagulation — non-contact thermal treatment using ionized argon gas for hemostasis." },
+    { "term": "PEG", "definition": "Percutaneous Endoscopic Gastrostomy — endoscopically placed feeding tube through the abdominal wall into the stomach." }
+  ]
+}

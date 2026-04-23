@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "Olympus EVIS X1 Endoscopy System", "model": "CV-1500", "description": "Latest generation video endoscopy system. Processor with 4K imaging, AI-assisted detection capability, and multi-light imaging (BLI, LCI)." },
+    { "name": "Olympus Gastroscope", "model": "GIF-HQ290", "description": "High-definition gastroscope for EGD. Working channel 2.8mm. [OLYMPUS CONFIRM]" },
+    { "name": "Olympus Colonoscope", "model": "CF-HQ290L", "description": "Long colonoscope for full colonoscopy. Passive bending technology. [OLYMPUS CONFIRM]" },
+    { "name": "Olympus Duodenoscope", "model": "TJF-Q190V", "description": "Side-viewing duodenoscope for ERCP. Elevator mechanism for accessory guidance. [OLYMPUS CONFIRM]" },
+    { "name": "Olympus Linear EUS Scope", "model": "GF-UCT180", "description": "Curved linear array echoendoscope for EUS-FNA/FNB. [OLYMPUS CONFIRM]" },
+    { "name": "Olympus Automated Endoscope Reprocessor", "model": "OER-Elite", "description": "AER for high-level disinfection of flexible endoscopes. [OLYMPUS CONFIRM]" }
+  ]
+}

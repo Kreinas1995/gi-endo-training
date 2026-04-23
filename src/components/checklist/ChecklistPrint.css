@@ -1,0 +1,5 @@
+/* File: /src/components/checklist/ChecklistPrint.css */
+.checklist-table { width: 100%; border-collapse: collapse; margin: var(--space-md) 0; }
+.checklist-table th, .checklist-table td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+.checklist-table th { background: var(--color-surface-alt); font-weight: 600; }
+@media print { .no-print { display: none !important; } }
